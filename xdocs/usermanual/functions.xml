@@ -108,7 +108,7 @@ Alternatively, just use <code>/</code> instead for the path separator - e.g. <co
         <tr><th>Type of function</th><th>Name</th><th>Comment</th><th>Since</th></tr>
         <!-- N.B. the leading space is needed to ensure the content is processed -->
         <tr><td>Information</td><td> <a href="#__threadNum">threadNum</a></td><td>get thread number</td><td>1.X</td></tr>
-        <tr><td>Information</td><td> <a href="#__threadGroupName">threadGroupName</a></td><td>get thread group name</td><td>4.1</td></tr>
+        <tr><td>Information</td><td> <a href="#__threadGroupName">threadGroupName</a></td><td>get thread group name</td><td>5.0</td></tr>
         <tr><td>Information</td><td> <a href="#__samplerName">samplerName</a></td><td>get the sampler name (label)</td><td>2.5</td></tr>
         <tr><td>Information</td><td> <a href="#__machineIP">machineIP</a></td><td>get the local machine IP address</td><td>2.6</td></tr>
         <tr><td>Information</td><td> <a href="#__machineName">machineName</a></td><td>get the local machine name</td><td>1.X</td></tr>
